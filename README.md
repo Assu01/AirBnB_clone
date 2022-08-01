@@ -11,5 +11,5 @@ This project is about;
 * What is **kwargs and how to use it
 * How to handle named arguments in a function
 # Authors
-Asrat Asmelash <Assu01>
-Yohannes Soressa <yosoressa>
+* Asrat Asmelash <https://github.com/Assu01>
+* Yohannes Soressa <https://github.com/yosoressa>
